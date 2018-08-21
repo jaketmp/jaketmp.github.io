@@ -1,0 +1,15 @@
+## jaketmp
+
+### Summary
+[My background](bio)
+
+#### macOS
+
+- [ePub-quicklook](https://github.com/jaketmp/ePub-quicklook) ePub quicklook and spotlight plugins for Mac OS X
+- [matlab-quicklook](https://github.com/jaketmp/matlab-quicklook) A Mac OS X quicklook generator for MATLAB .mat workspace files
+
+#### Python
+
+- [pyCompare](https://github.com/jaketmp/pyCompare) Python module for generating Bland-Altman plots
+- [nPYc-Toolbox](nPYc-Toolbox
+The nPYc-Toolbox defines objects for representing, and implements functions to manipulate and display, metabolic profiling datasets.) The nPYc-Toolbox defines objects for representing, and implements functions to manipulate and display, metabolic profiling datasets.
