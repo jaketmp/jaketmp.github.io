@@ -1,8 +1,10 @@
-## jaketmp
-
 ### Summary
+
 [My background](bio)
+
 [My publications](publications)
+
+## Notable projects
 
 #### macOS
 
