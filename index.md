@@ -2,6 +2,7 @@
 
 ### Summary
 [My background](bio)
+[My publications](publications)
 
 #### macOS
 
