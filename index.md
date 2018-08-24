@@ -14,5 +14,4 @@
 #### Python
 
 - [pyCompare](https://github.com/jaketmp/pyCompare) Python module for generating Bland-Altman plots
-- [nPYc-Toolbox](nPYc-Toolbox
-The nPYc-Toolbox defines objects for representing, and implements functions to manipulate and display, metabolic profiling datasets.) The nPYc-Toolbox defines objects for representing, and implements functions to manipulate and display, metabolic profiling datasets.
+- [nPYc-Toolbox](https://github.com/phenomecentre/nPYc-Toolbox) The nPYc-Toolbox defines objects for representing, and implements functions to manipulate and display, metabolic profiling datasets.
