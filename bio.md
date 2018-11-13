@@ -24,6 +24,3 @@ The metadata importer (for Mac OS X 10.4 and later) allows Spotlight to index th
 Both plug-ins are now updated to run in 64bit under Mac OS X 10.6 and later, and included several speed optimisations.
 
 Additionally I have written a [quicklook plugin](https://github.com/jaketmp/ePub-quicklook) to preview [ePub documents](http://idpf.org/epub).
-
-### International Phenome Centre Network
-Working as part of the [International Phenome Centre Network](https://phenomenetwork.org/) (IPCN), I am interested in the challenges inherent in comparing healthcare data from diverse systems around the world, leveraging the power that can be gained both by analysing this data in concert and validating findings in totally independent populations.
