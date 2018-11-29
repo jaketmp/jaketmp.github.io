@@ -51,6 +51,12 @@
 {:.year}
 ### 2010
 
+{:.thesis}
+<span>Novel Computational Approaches to Characterising Metabolic Responses to Toxicity via an NMR-Based Metabonomic Database</span>{:.papertitle}
+<span>**JTM. Pearce**</span>{:.authors}
+<span>University of London, PhD Thesis in Computational Biology, 2010</span>{:.journal}
+<span>[PDF](assets/JTMPearce_Thesis.pdf))</span>{:.doi}
+
 {:.paper}
 <span>Ultra Performance Liquid Chromatography-Mass Spectrometry Profiling of Bile Acid Metabolites in Biofluids: Application to Experimental Toxicology Studies</span>{:.papertitle}
 <span>E. Want, M. Coen, P. Masson, H. Keun, **JTM. Pearce**, M. Reily, D. Robertson, C. Rohde, E. Holmes, J. Lindon, R. Plumb, and J. Nicholson</span>{:.authors}
