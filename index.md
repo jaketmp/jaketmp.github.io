@@ -4,7 +4,7 @@
 
 [My publications](publications)
 
-[ORCID](https://orcid.org/0000-0003-4637-3171)
+[![ORCID Logo](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp;ORCID](https://orcid.org/0000-0003-4637-3171)
 
 ## Notable projects
 
