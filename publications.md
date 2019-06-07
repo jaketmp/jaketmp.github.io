@@ -33,6 +33,7 @@
 <span>_Diabetes, Obesity and Metabolism_, vol. 20(12), pp 2709--2926, Jul. 2018</span><br />
 <span>**DOI:**&nbsp;[10.1111/dom.13460](https://dx.doi.org/10.1111/dom.13460)</span>
 
+
 {:.year}
 ### 2016
 
@@ -80,8 +81,6 @@
 <span>E.&nbsp;Want, M.&nbsp;Coen, P.&nbsp;Masson, H.&nbsp;Keun, **JTM.&nbsp;Pearce**, M.&nbsp;Reily, D.&nbsp;Robertson, C.&nbsp;Rohde, E.&nbsp;Holmes, J.&nbsp;Lindon, R.&nbsp;Plumb, and J.&nbsp;Nicholson</span><br />
 <span>_Analytical Chemistry_, vol. 82, pp. 5282--5289, Jun. 2010</span><br />
 <span>**DOI:**&nbsp;[10.1021/ac1007078](https://dx.doi.org/10.1021/ac1007078)</span>{:.doi}
-
-
 
 
 {:.year}
