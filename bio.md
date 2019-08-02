@@ -15,12 +15,10 @@ Prior to my time at Imperial College, I studied Biochemistry at the [University 
 Upon completing my BSc I undertook an MSc in Bioinformatics at Birkbeck College, London. During my time at Birkbeck my project work specialised XSLT-based transformation of XML for database manipulation and integration, with special reference to the Gene Ontology database and [FlyBase](http://flybase.org) genome repository.
 
 ### Quicklook Plugins for macOS
-My work has involved extensive use of MATLAB for computational analysis of metabolic profiling data-sets. To this end I have written a pair of plug-ins for macOS to improve the integration of MATLAB with the operating system.
+My early work at Imperial College involved extensive use of MATLAB for computational analysis of metabolic profiling data-sets. To better make use of native macOS capabilities with MATLAB, I wrote a pair of plug-ins for macOS to improve the integration of MATLAB with the operating system.
 
 The [MATLAB quicklook generator](https://github.com/jaketmp/matlab-quicklook) (for macOS 10.6 Snow-Leopard and later) extends quicklook to give an overview of the variables in a .mat workspace file.
 
-The metadata importer (for Mac OS X 10.4 and later) allows Spotlight to index the names of variables within a .mat file.
-
-Both plug-ins are now updated to run in 64bit under Mac OS X 10.6 and later, and included several speed optimisations.
+The metadata importer (for Mac OS X 10.4 and later) allows Spotlight to search inside .mat files, by indexing the names of variables within the file.
 
 Additionally I have written a [quicklook plugin](https://github.com/jaketmp/ePub-quicklook) to preview [ePub documents](http://idpf.org/epub).
