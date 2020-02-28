@@ -8,7 +8,7 @@
 {:.paper}
 <span>The nPYc-Toolbox, a Python module for the pre-processing, quality-control, and analysis of metabolic profiling datasets</span>,<br />
 <span>CJ.&nbsp;Sands, AM.&nbsp;Wolfer, GDS.&nbsp;Correia, N.&nbsp;Sadawi, A.&nbsp;Ahmed, B.&nbsp;Jiménez, MR.&nbsp;Lewis, RC.&nbsp;Glen, JK.&nbsp;Nicholson, **JTM.&nbsp;Pearce**</span>,<br />
-<span>_Bioinformatics_, btz566</span>,<br />
+<span>_Bioinformatics_, vol. 35(24), pp5359--5360, Dec 2019</span>,<br />
 <span>**DOI**&nbsp;[10.1093/bioinformatics/btz566](https://doi.org/10.1093/bioinformatics/btz566)</span>
 
 
