@@ -1,6 +1,19 @@
 ## Publications
 
+{:.year}
+### 2021
 
+{:.paper}
+<span>Statistical analysis in metabolic phenotyping</span>,<br \>
+<span> BJ.&nbsp;Blaise, DS.&nbsp;Correia, GH, I&nbsp;Surowiec, CJ.&nbsp;Sands, MR.&nbsp;Lewis, **JTM.&nbsp;Pearce**, J&nbsp;Trygg, JK.&nbsp;Nicholson, E.&nbsp;Holmes, and TMD.&nbsp;Ebbels</span>,<br \>
+<span>_Nature Protocols_, v 16, pp 4299--4326, 2021</span>,<br />
+<span>**DOI**&nbsp;[10.1038/s41596-021-00579-1](https://doi.org/10.1038/s41596-021-00579-1)</span>
+
+{:.paper}
+<span>peakPantheR, an R package for large-scale targeted extraction and integration of annotated metabolic features in LC–MS profiling datasets</span>,<br />
+<span>AM.&nbsp;Wolfer, GDS.&nbsp;Correia, CJ.&nbsp;Sands, S&nbsp;Camuzeaux, AHY&nbsp;Yuen, E&nbsp;Chekmeneva, Z&nbsp;Takáts, **JTM.&nbsp;Pearce**, and  MR.&nbsp;Lewis</span>,<br />
+<span>Bioinformatics, btab433, 2021</span>,<br />
+<span>**DOI**&nbsp;[10.1093/bioinformatics/btab433](https://doi.org/10.1093/bioinformatics/btab433)</span>
 
 {:.year}
 ### 2019
