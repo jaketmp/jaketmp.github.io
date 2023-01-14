@@ -4,7 +4,7 @@
 
 [My publications](publications)
 
-[![ORCID Logo](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp;ORCID](https://orcid.org/0000-0003-4637-3171) [![Twitter Follow](https://img.shields.io/twitter/follow/jaketmp.svg?label=Twitter&style=social)](https://twitter.com/jaketmp) [![LinkedIn](https://img.shields.io/badge/linkedIn--blue.svg?logo=linkedin&style=social)](https://linkedin.com/in/jaketmp)
+[![ORCID Logo](https://orcid.org/sites/default/files/images/orcid_16x16.png)&nbsp;ORCID](https://orcid.org/0000-0003-4637-3171) [![Twitter Follow](https://img.shields.io/twitter/follow/jaketmp.svg?label=Twitter&style=social)](https://twitter.com/jaketmp) <a rel="me" href="https://mastodon.social/@jaketmp">Mastodon</a> [![LinkedIn](https://img.shields.io/badge/linkedIn--blue.svg?logo=linkedin&style=social)](https://linkedin.com/in/jaketmp)
 
 ## Notable projects
 
